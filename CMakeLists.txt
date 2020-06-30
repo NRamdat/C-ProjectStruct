@@ -1,4 +1,4 @@
-# cmake project autoRC
+# cmake project 
 cmake_minimum_required(VERSION 3.1 FATAL_ERROR)
 project(C++ProjectStruct) # change name for every project
 
